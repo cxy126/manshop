@@ -1,5 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Feb 17 10:15:09 CST 2014
-http\://dev13\:8081/artifactory/repo/.lastUpdated=1392603309328
-default-http\://192.168.20.153/nexus/content/groups/public/.lastUpdated=1392603301437
-http\://192.168.20.153/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba\:fastjson\:jar\:1.1.31 from/to llyt (http\://192.168.20.153/nexus/content/groups/public/)\: java.net.ConnectException\: connection timed out to http\://192.168.20.153/nexus/content/groups/public/com/alibaba/fastjson/1.1.31/fastjson-1.1.31.jar
